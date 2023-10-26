@@ -52,10 +52,9 @@ namespace MyFirstWindow_1_
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            txtFirstName.Clear();
-            txtLastName.Clear();
-            txtUsername.Clear();
-            txtPassword.Clear();
+            panelRegister.Controls.OfType<Guna2TextBox>()
+                .ToList()
+                .ForEach(txt => txt.Clear());
         }
 
         private void lblBack_Click(object sender, EventArgs e)
