@@ -12,6 +12,7 @@ namespace MyFirstWindow_1_
         public string LastName { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
+        public Image Image { get; set; }
 
         public string FullName => $"{LastName}, {FirstName}";
     }

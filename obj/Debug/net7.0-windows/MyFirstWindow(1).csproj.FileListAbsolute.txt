@@ -21,3 +21,27 @@ C:\BSCS 2-1 CRUZ\OOP\Finals\MyFirstWindow(1)\obj\Debug\net7.0-windows\MyFirstWin
 C:\BSCS 2-1 CRUZ\OOP\Finals\MyFirstWindow(1)\obj\Debug\net7.0-windows\MyFirstWindow(1).csproj.CopyComplete
 C:\BSCS 2-1 CRUZ\OOP\Finals\MyFirstWindow(1)\obj\Debug\net7.0-windows\MyFirstWindow_1_.Form2.resources
 C:\BSCS 2-1 CRUZ\OOP\Finals\MyFirstWindow(1)\obj\Debug\net7.0-windows\MyFirstWindow_1_.RegisterForm.resources
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\MyFirstWindow(1).exe
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\MyFirstWindow(1).deps.json
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\MyFirstWindow(1).runtimeconfig.json
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\MyFirstWindow(1).dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\MyFirstWindow(1).pdb
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).csproj.AssemblyReference.cache
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow_1_.LoginForm.resources
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow_1_.MainForm.resources
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow_1_.RegisterForm.resources
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).csproj.GenerateResource.cache
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).AssemblyInfoInputs.cache
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).AssemblyInfo.cs
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).csproj.CoreCompileInputs.cache
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).csproj.CopyComplete
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\refint\MyFirstWindow(1).dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).pdb
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow(1).genruntimeconfig.cache
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\ref\MyFirstWindow(1).dll
+D:\User\Jansen\Self Study\2023 - 10 - OCTOBER\.NET\Login-OOP\obj\Debug\net7.0-windows\MyFirstWindow_1_.Properties.Resources.resources

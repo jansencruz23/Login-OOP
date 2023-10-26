@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uFNdgcCoxJciKWhDzEd7DxRiCUl5jJsT5xMgvdbWtWkIPlEDPM0r0SWZ85iJDtNK1pY6GJmEdnRzK1cIrC7xpQ==",
+  "dgSpecHash": "34BlR896oLZ5UXHDDIMnLCJnBF1aSzXlDQxX9c+/Ivi1aQI+L+IkTh8ZsVeIb6Y4JSCS66s4p58UZCLHjoZkQw==",
   "success": true,
-  "projectFilePath": "C:\\BSCS 2-1 CRUZ\\OOP\\Finals\\MyFirstWindow(1)\\MyFirstWindow(1).csproj",
+  "projectFilePath": "D:\\User\\Jansen\\Self Study\\2023 - 10 - OCTOBER\\.NET\\Login-OOP\\MyFirstWindow(1).csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

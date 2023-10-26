@@ -28,270 +28,292 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges13 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            tableLayoutPanel1 = new TableLayoutPanel();
-            guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            label1 = new Label();
-            lblBack = new Label();
-            btnClear = new Guna.UI2.WinForms.Guna2Button();
-            btnRegister = new Guna.UI2.WinForms.Guna2Button();
-            txtPassword = new Guna.UI2.WinForms.Guna2TextBox();
-            txtUsername = new Guna.UI2.WinForms.Guna2TextBox();
-            txtLastName = new Guna.UI2.WinForms.Guna2TextBox();
-            txtFirstName = new Guna.UI2.WinForms.Guna2TextBox();
-            lblHello = new Label();
-            tableLayoutPanel1.SuspendLayout();
-            guna2Panel1.SuspendLayout();
-            SuspendLayout();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges29 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges30 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges21 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges22 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges23 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges24 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges25 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges26 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges27 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges28 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.panelRegister = new Guna.UI2.WinForms.Guna2Panel();
+            this.txtUsername = new Guna.UI2.WinForms.Guna2TextBox();
+            this.imgPic = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.btnClear = new Guna.UI2.WinForms.Guna2Button();
+            this.txtPassword = new Guna.UI2.WinForms.Guna2TextBox();
+            this.lblHello = new System.Windows.Forms.Label();
+            this.btnRegister = new Guna.UI2.WinForms.Guna2Button();
+            this.txtLastName = new Guna.UI2.WinForms.Guna2TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblBack = new System.Windows.Forms.Label();
+            this.txtFirstName = new Guna.UI2.WinForms.Guna2TextBox();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.panelRegister.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.imgPic)).BeginInit();
+            this.SuspendLayout();
             // 
             // tableLayoutPanel1
             // 
-            tableLayoutPanel1.BackColor = Color.FromArgb(243, 243, 243);
-            tableLayoutPanel1.ColumnCount = 1;
-            tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel1.Controls.Add(guna2Panel1, 0, 0);
-            tableLayoutPanel1.Dock = DockStyle.Fill;
-            tableLayoutPanel1.Location = new Point(0, 0);
-            tableLayoutPanel1.Name = "tableLayoutPanel1";
-            tableLayoutPanel1.RowCount = 1;
-            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
-            tableLayoutPanel1.Size = new Size(1027, 530);
-            tableLayoutPanel1.TabIndex = 1;
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(243)))));
+            this.tableLayoutPanel1.ColumnCount = 1;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.Controls.Add(this.panelRegister, 0, 0);
+            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1175, 774);
+            this.tableLayoutPanel1.TabIndex = 1;
             // 
-            // guna2Panel1
+            // panelRegister
             // 
-            guna2Panel1.Anchor = AnchorStyles.None;
-            guna2Panel1.BackColor = Color.Transparent;
-            guna2Panel1.BorderRadius = 30;
-            guna2Panel1.Controls.Add(label1);
-            guna2Panel1.Controls.Add(lblBack);
-            guna2Panel1.Controls.Add(btnClear);
-            guna2Panel1.Controls.Add(btnRegister);
-            guna2Panel1.Controls.Add(txtPassword);
-            guna2Panel1.Controls.Add(txtUsername);
-            guna2Panel1.Controls.Add(txtLastName);
-            guna2Panel1.Controls.Add(txtFirstName);
-            guna2Panel1.Controls.Add(lblHello);
-            guna2Panel1.CustomizableEdges = customizableEdges13;
-            guna2Panel1.FillColor = Color.White;
-            guna2Panel1.Location = new Point(315, 34);
-            guna2Panel1.Name = "guna2Panel1";
-            guna2Panel1.ShadowDecoration.BorderRadius = 30;
-            guna2Panel1.ShadowDecoration.Color = Color.Silver;
-            guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges14;
-            guna2Panel1.ShadowDecoration.Depth = 15;
-            guna2Panel1.ShadowDecoration.Enabled = true;
-            guna2Panel1.ShadowDecoration.Shadow = new Padding(2, 2, 8, 8);
-            guna2Panel1.Size = new Size(396, 461);
-            guna2Panel1.TabIndex = 0;
-            // 
-            // label1
-            // 
-            label1.Cursor = Cursors.Hand;
-            label1.Font = new Font("Arial", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(0, 66);
-            label1.Name = "label1";
-            label1.Size = new Size(248, 20);
-            label1.TabIndex = 21;
-            label1.Text = "Already have an account?";
-            label1.TextAlign = ContentAlignment.MiddleRight;
-            // 
-            // lblBack
-            // 
-            lblBack.Cursor = Cursors.Hand;
-            lblBack.Font = new Font("Arial", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            lblBack.ForeColor = Color.FromArgb(88, 36, 252);
-            lblBack.Location = new Point(245, 66);
-            lblBack.Name = "lblBack";
-            lblBack.Size = new Size(145, 20);
-            lblBack.TabIndex = 20;
-            lblBack.Text = "Log in";
-            lblBack.TextAlign = ContentAlignment.MiddleLeft;
-            lblBack.Click += lblBack_Click;
-            // 
-            // btnClear
-            // 
-            btnClear.BorderColor = Color.FromArgb(224, 224, 224);
-            btnClear.BorderRadius = 10;
-            btnClear.BorderThickness = 1;
-            btnClear.CustomizableEdges = customizableEdges1;
-            btnClear.DisabledState.BorderColor = Color.DarkGray;
-            btnClear.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnClear.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnClear.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnClear.FillColor = Color.White;
-            btnClear.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnClear.ForeColor = Color.FromArgb(5, 6, 15);
-            btnClear.Location = new Point(33, 380);
-            btnClear.Name = "btnClear";
-            btnClear.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            btnClear.Size = new Size(330, 45);
-            btnClear.TabIndex = 19;
-            btnClear.Text = "Clear";
-            btnClear.Click += btnClear_Click;
-            // 
-            // btnRegister
-            // 
-            btnRegister.BorderRadius = 10;
-            btnRegister.CustomizableEdges = customizableEdges3;
-            btnRegister.DisabledState.BorderColor = Color.DarkGray;
-            btnRegister.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnRegister.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnRegister.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnRegister.FillColor = Color.FromArgb(88, 36, 252);
-            btnRegister.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnRegister.ForeColor = Color.White;
-            btnRegister.Location = new Point(33, 325);
-            btnRegister.Name = "btnRegister";
-            btnRegister.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            btnRegister.Size = new Size(330, 45);
-            btnRegister.TabIndex = 18;
-            btnRegister.Text = "Create Account";
-            btnRegister.Click += btnRegister_Click;
-            // 
-            // txtPassword
-            // 
-            txtPassword.BorderRadius = 10;
-            txtPassword.BorderThickness = 0;
-            txtPassword.CustomizableEdges = customizableEdges5;
-            txtPassword.DefaultText = "";
-            txtPassword.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtPassword.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtPassword.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtPassword.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtPassword.FillColor = Color.FromArgb(242, 242, 243);
-            txtPassword.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtPassword.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            txtPassword.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtPassword.Location = new Point(33, 269);
-            txtPassword.Margin = new Padding(4, 3, 4, 3);
-            txtPassword.Name = "txtPassword";
-            txtPassword.PasswordChar = '●';
-            txtPassword.PlaceholderText = "Password";
-            txtPassword.SelectedText = "";
-            txtPassword.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            txtPassword.Size = new Size(330, 43);
-            txtPassword.TabIndex = 17;
-            txtPassword.TextOffset = new Point(0, 1);
-            txtPassword.UseSystemPasswordChar = true;
+            this.panelRegister.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.panelRegister.BackColor = System.Drawing.Color.Transparent;
+            this.panelRegister.BorderRadius = 30;
+            this.panelRegister.Controls.Add(this.txtUsername);
+            this.panelRegister.Controls.Add(this.imgPic);
+            this.panelRegister.Controls.Add(this.btnClear);
+            this.panelRegister.Controls.Add(this.txtPassword);
+            this.panelRegister.Controls.Add(this.lblHello);
+            this.panelRegister.Controls.Add(this.btnRegister);
+            this.panelRegister.Controls.Add(this.txtLastName);
+            this.panelRegister.Controls.Add(this.label1);
+            this.panelRegister.Controls.Add(this.lblBack);
+            this.panelRegister.Controls.Add(this.txtFirstName);
+            this.panelRegister.CustomizableEdges = customizableEdges29;
+            this.panelRegister.FillColor = System.Drawing.Color.White;
+            this.panelRegister.Location = new System.Drawing.Point(391, 86);
+            this.panelRegister.Margin = new System.Windows.Forms.Padding(0);
+            this.panelRegister.Name = "panelRegister";
+            this.panelRegister.ShadowDecoration.BorderRadius = 30;
+            this.panelRegister.ShadowDecoration.Color = System.Drawing.Color.Silver;
+            this.panelRegister.ShadowDecoration.CustomizableEdges = customizableEdges30;
+            this.panelRegister.ShadowDecoration.Depth = 15;
+            this.panelRegister.ShadowDecoration.Enabled = true;
+            this.panelRegister.ShadowDecoration.Shadow = new System.Windows.Forms.Padding(2, 2, 8, 8);
+            this.panelRegister.Size = new System.Drawing.Size(393, 601);
+            this.panelRegister.TabIndex = 0;
             // 
             // txtUsername
             // 
-            txtUsername.BorderRadius = 10;
-            txtUsername.BorderThickness = 0;
-            txtUsername.CustomizableEdges = customizableEdges7;
-            txtUsername.DefaultText = "";
-            txtUsername.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtUsername.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtUsername.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtUsername.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtUsername.FillColor = Color.FromArgb(242, 242, 243);
-            txtUsername.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtUsername.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            txtUsername.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtUsername.Location = new Point(33, 216);
-            txtUsername.Margin = new Padding(4, 3, 4, 3);
-            txtUsername.Name = "txtUsername";
-            txtUsername.PasswordChar = '\0';
-            txtUsername.PlaceholderText = "Username";
-            txtUsername.SelectedText = "";
-            txtUsername.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            txtUsername.Size = new Size(330, 43);
-            txtUsername.TabIndex = 16;
-            txtUsername.TextOffset = new Point(0, 1);
+            this.txtUsername.BorderRadius = 10;
+            this.txtUsername.BorderThickness = 0;
+            this.txtUsername.CustomizableEdges = customizableEdges16;
+            this.txtUsername.DefaultText = "";
+            this.txtUsername.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtUsername.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtUsername.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtUsername.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtUsername.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(243)))));
+            this.txtUsername.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtUsername.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtUsername.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtUsername.Location = new System.Drawing.Point(32, 353);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.PasswordChar = '\0';
+            this.txtUsername.PlaceholderText = "Username";
+            this.txtUsername.SelectedText = "";
+            this.txtUsername.ShadowDecoration.CustomizableEdges = customizableEdges17;
+            this.txtUsername.Size = new System.Drawing.Size(330, 43);
+            this.txtUsername.TabIndex = 16;
+            this.txtUsername.TextOffset = new System.Drawing.Point(0, 1);
             // 
-            // txtLastName
+            // imgPic
             // 
-            txtLastName.BorderRadius = 10;
-            txtLastName.BorderThickness = 0;
-            txtLastName.CustomizableEdges = customizableEdges9;
-            txtLastName.DefaultText = "";
-            txtLastName.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtLastName.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtLastName.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtLastName.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtLastName.FillColor = Color.FromArgb(242, 242, 243);
-            txtLastName.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtLastName.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            txtLastName.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtLastName.Location = new Point(33, 163);
-            txtLastName.Margin = new Padding(4, 3, 4, 3);
-            txtLastName.Name = "txtLastName";
-            txtLastName.PasswordChar = '\0';
-            txtLastName.PlaceholderText = "Last Name";
-            txtLastName.SelectedText = "";
-            txtLastName.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            txtLastName.Size = new Size(330, 43);
-            txtLastName.TabIndex = 15;
-            txtLastName.TextOffset = new Point(0, 1);
+            this.imgPic.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.imgPic.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(243)))));
+            this.imgPic.ImageRotate = 0F;
+            this.imgPic.Location = new System.Drawing.Point(144, 109);
+            this.imgPic.Name = "imgPic";
+            this.imgPic.ShadowDecoration.CustomizableEdges = customizableEdges18;
+            this.imgPic.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.imgPic.Size = new System.Drawing.Size(110, 110);
+            this.imgPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.imgPic.TabIndex = 22;
+            this.imgPic.TabStop = false;
+            this.imgPic.Click += new System.EventHandler(this.imgPic_Click);
             // 
-            // txtFirstName
+            // btnClear
             // 
-            txtFirstName.BorderRadius = 10;
-            txtFirstName.BorderThickness = 0;
-            txtFirstName.CustomizableEdges = customizableEdges11;
-            txtFirstName.DefaultText = "";
-            txtFirstName.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtFirstName.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtFirstName.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtFirstName.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtFirstName.FillColor = Color.FromArgb(242, 242, 243);
-            txtFirstName.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtFirstName.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            txtFirstName.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtFirstName.Location = new Point(33, 109);
-            txtFirstName.Margin = new Padding(4, 3, 4, 3);
-            txtFirstName.Name = "txtFirstName";
-            txtFirstName.PasswordChar = '\0';
-            txtFirstName.PlaceholderText = "First Name";
-            txtFirstName.SelectedText = "";
-            txtFirstName.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            txtFirstName.Size = new Size(330, 43);
-            txtFirstName.TabIndex = 14;
-            txtFirstName.TextOffset = new Point(0, 1);
+            this.btnClear.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnClear.BorderRadius = 10;
+            this.btnClear.BorderThickness = 1;
+            this.btnClear.CustomizableEdges = customizableEdges19;
+            this.btnClear.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnClear.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnClear.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnClear.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnClear.FillColor = System.Drawing.Color.White;
+            this.btnClear.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(6)))), ((int)(((byte)(15)))));
+            this.btnClear.Location = new System.Drawing.Point(32, 514);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.ShadowDecoration.CustomizableEdges = customizableEdges20;
+            this.btnClear.Size = new System.Drawing.Size(330, 45);
+            this.btnClear.TabIndex = 19;
+            this.btnClear.Text = "Clear";
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.BorderRadius = 10;
+            this.txtPassword.BorderThickness = 0;
+            this.txtPassword.CustomizableEdges = customizableEdges21;
+            this.txtPassword.DefaultText = "";
+            this.txtPassword.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtPassword.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtPassword.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtPassword.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtPassword.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(243)))));
+            this.txtPassword.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtPassword.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtPassword.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtPassword.Location = new System.Drawing.Point(32, 407);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.PasswordChar = '●';
+            this.txtPassword.PlaceholderText = "Password";
+            this.txtPassword.SelectedText = "";
+            this.txtPassword.ShadowDecoration.CustomizableEdges = customizableEdges22;
+            this.txtPassword.Size = new System.Drawing.Size(330, 43);
+            this.txtPassword.TabIndex = 17;
+            this.txtPassword.TextOffset = new System.Drawing.Point(0, 1);
+            this.txtPassword.UseSystemPasswordChar = true;
             // 
             // lblHello
             // 
-            lblHello.Font = new Font("Arial Black", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            lblHello.ForeColor = Color.FromArgb(5, 6, 15);
-            lblHello.Location = new Point(0, 33);
-            lblHello.Name = "lblHello";
-            lblHello.Size = new Size(396, 30);
-            lblHello.TabIndex = 13;
-            lblHello.Text = "Create your account";
-            lblHello.TextAlign = ContentAlignment.MiddleCenter;
+            this.lblHello.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblHello.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(6)))), ((int)(((byte)(15)))));
+            this.lblHello.Location = new System.Drawing.Point(0, 33);
+            this.lblHello.Name = "lblHello";
+            this.lblHello.Size = new System.Drawing.Size(393, 34);
+            this.lblHello.TabIndex = 13;
+            this.lblHello.Text = "Create your account";
+            this.lblHello.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // btnRegister
+            // 
+            this.btnRegister.BorderRadius = 10;
+            this.btnRegister.CustomizableEdges = customizableEdges23;
+            this.btnRegister.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnRegister.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnRegister.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnRegister.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnRegister.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(36)))), ((int)(((byte)(252)))));
+            this.btnRegister.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnRegister.ForeColor = System.Drawing.Color.White;
+            this.btnRegister.Location = new System.Drawing.Point(32, 463);
+            this.btnRegister.Name = "btnRegister";
+            this.btnRegister.ShadowDecoration.CustomizableEdges = customizableEdges24;
+            this.btnRegister.Size = new System.Drawing.Size(330, 45);
+            this.btnRegister.TabIndex = 18;
+            this.btnRegister.Text = "Create Account";
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
+            // 
+            // txtLastName
+            // 
+            this.txtLastName.BorderRadius = 10;
+            this.txtLastName.BorderThickness = 0;
+            this.txtLastName.CustomizableEdges = customizableEdges25;
+            this.txtLastName.DefaultText = "";
+            this.txtLastName.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtLastName.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtLastName.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtLastName.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtLastName.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(243)))));
+            this.txtLastName.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtLastName.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtLastName.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtLastName.Location = new System.Drawing.Point(32, 299);
+            this.txtLastName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.txtLastName.Name = "txtLastName";
+            this.txtLastName.PasswordChar = '\0';
+            this.txtLastName.PlaceholderText = "Last Name";
+            this.txtLastName.SelectedText = "";
+            this.txtLastName.ShadowDecoration.CustomizableEdges = customizableEdges26;
+            this.txtLastName.Size = new System.Drawing.Size(330, 43);
+            this.txtLastName.TabIndex = 15;
+            this.txtLastName.TextOffset = new System.Drawing.Point(0, 1);
+            // 
+            // label1
+            // 
+            this.label1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label1.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(1, 69);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(248, 20);
+            this.label1.TabIndex = 21;
+            this.label1.Text = "Already have an account?";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // lblBack
+            // 
+            this.lblBack.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lblBack.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblBack.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(36)))), ((int)(((byte)(252)))));
+            this.lblBack.Location = new System.Drawing.Point(246, 69);
+            this.lblBack.Name = "lblBack";
+            this.lblBack.Size = new System.Drawing.Size(145, 20);
+            this.lblBack.TabIndex = 20;
+            this.lblBack.Text = "Log in";
+            this.lblBack.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblBack.Click += new System.EventHandler(this.lblBack_Click);
+            // 
+            // txtFirstName
+            // 
+            this.txtFirstName.BorderRadius = 10;
+            this.txtFirstName.BorderThickness = 0;
+            this.txtFirstName.CustomizableEdges = customizableEdges27;
+            this.txtFirstName.DefaultText = "";
+            this.txtFirstName.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtFirstName.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtFirstName.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtFirstName.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtFirstName.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(243)))));
+            this.txtFirstName.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtFirstName.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtFirstName.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtFirstName.Location = new System.Drawing.Point(32, 245);
+            this.txtFirstName.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.txtFirstName.Name = "txtFirstName";
+            this.txtFirstName.PasswordChar = '\0';
+            this.txtFirstName.PlaceholderText = "First Name";
+            this.txtFirstName.SelectedText = "";
+            this.txtFirstName.ShadowDecoration.CustomizableEdges = customizableEdges28;
+            this.txtFirstName.Size = new System.Drawing.Size(330, 43);
+            this.txtFirstName.TabIndex = 14;
+            this.txtFirstName.TextOffset = new System.Drawing.Point(0, 1);
             // 
             // RegisterForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1027, 530);
-            Controls.Add(tableLayoutPanel1);
-            Name = "RegisterForm";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "RegisterForm";
-            WindowState = FormWindowState.Maximized;
-            tableLayoutPanel1.ResumeLayout(false);
-            guna2Panel1.ResumeLayout(false);
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1175, 774);
+            this.Controls.Add(this.tableLayoutPanel1);
+            this.Name = "RegisterForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Register";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.panelRegister.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.imgPic)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
         private TableLayoutPanel tableLayoutPanel1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
+        private Guna.UI2.WinForms.Guna2Panel panelRegister;
         private Guna.UI2.WinForms.Guna2TextBox txtPassword;
         private Guna.UI2.WinForms.Guna2TextBox txtUsername;
         private Guna.UI2.WinForms.Guna2TextBox txtLastName;
@@ -301,5 +323,6 @@
         private Guna.UI2.WinForms.Guna2Button btnClear;
         private Label label1;
         private Label lblBack;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox imgPic;
     }
 }
